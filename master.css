@@ -1,0 +1,29 @@
+
+h1{color:white;text-align:center;}
+h2{color:teal;}
+p{font-size:18px;font-weight:bold;text-align:center;}
+li{color:teal}
+.Form_Buttons{height: 50px;color: teal}
+input{height:50px;width: auto;}
+#HeaderSite, #TopPage, #MiddlePage, #BottomPage, #UserInputForm
+ {  background-color: teal;
+    width: 50%auto;
+    height: 50%auto;
+    margin: 30px;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    font-size: 28px;
+    font-weight: bolder;
+    border: 3px solid black;
+    }
+#TopPage {font-size: 28px;}
+.PageName {color: black}
+
+table {
+  border-collapse: collapse;
+  border: solid black;
+  text-align: center;
+  width: 50%;
+      }
+th,td{border: 1px solid black; padding: 5px}
+th{background-color: lightgrey}
